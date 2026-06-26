@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-6-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--21-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-2%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-11-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--27-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-4%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
@@ -11,7 +11,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 0/14 lab
+- **Authentication vulnerabilities**: 1/14 lab
 - **SQL injection**: 4/18 lab
 - **Access control**: 1/13 lab
 - **Cross-site scripting**: 1/30 lab
@@ -35,17 +35,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
-| 1  | 2026-06-16 |   SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
-| 2  | 2026-06-16 |   SQL injection | SQL injection vulnerability allowing login bypass | APPRENTICE  | N/A |
-| 3  | 2026-06-16 |   Cross-site scripting  | Reflected XSS into HTML context with nothing encoded | APPRENTICE  | N/A |
+| 1  | 2026-06-16 |  SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
+| 2  | 2026-06-16 |  SQL injection | SQL injection vulnerability allowing login bypass | APPRENTICE  | N/A |
+| 3  | 2026-06-16 |  Cross-site scripting  | Reflected XSS into HTML context with nothing encoded | APPRENTICE  | N/A |
 | 4  | 2026-06-16 |  Access control vulnerabilities   | Insecure direct object references | APPRENTICE  | N/A |
-| 5  | 2026-00-00 |  SQL injection   | SQL injection with filter bypass via XML encoding | PRACTITIONER | N/A |
+| 5  | 2026-06-21 |  SQL injection   | SQL injection with filter bypass via XML encoding | PRACTITIONER | N/A |
 | 6  | 2026-06-21 |  SQL injection   | SQL injection UNION attack, determining the number of columns returned by the query | PRACTITIONER | N/A |
-| 7  | 2026-00-00 |     |  |  | N/A |
-| 8  | 2026-00-00 |     |  |  | N/A |
-| 9  | 2026-00-00 |     |  |  | N/A |
-| 10  | 2026-00-00 |     |  |  | N/A |
-| 11  | 2026-00-00 |     |  |  | N/A |
+| 7  | 2026-06-21 |  SQL injection   | SQL injection UNION attack, finding a column containing text | PRACTITIONER | N/A |
+| 8  | 2026-06-21 |  SQL injection   | SQL injection UNION attack, retrieving data from other tables | PRACTITIONER | N/A |
+| 9  | 2026-06-21 |  SQL injection   | SQL injection attack, querying the database type and version on Oracle | PRACTITIONER | N/A |
+| 10  | 2026-06-21 |  SQL injection    | SQL injection attack, querying the database type and version on MySQL and Microsoft | PRACTITIONER | N/A |
+| 11  | 2026-06-24 |  Authentication vulnerabilities   | Username enumeration via different responses | APPRENTICE | N/A |
 | 12  | 2026-00-00 |     |  |  | N/A |
 | 13  | 2026-00-00 |     |  |  | N/A |
 | 14  | 2026-00-00 |     |  |  | N/A |
