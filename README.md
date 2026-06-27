@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-14-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--27-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-5%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-17-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--27-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-6%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
@@ -12,7 +12,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 4/14 lab
-- **SQL injection**: 4/18 lab
+- **SQL injection**: 7/18 lab
 - **Access control**: 1/13 lab
 - **Cross-site scripting**: 1/30 lab
 
@@ -49,9 +49,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 12  | 2026-06-27 |  Authentication vulnerabilities   | Username enumeration via subtly different responses | PRACTITIONER | N/A |
 | 13  | 2026-06-27 |  Authentication vulnerabilities   | Username enumeration via response timing | PRACTITIONER | N/A |
 | 14  | 2026-06-27 |  Authentication vulnerabilities   | Broken brute-force protection, IP block | PRACTITIONER | N/A |
-| 15  | 2026-00-00 |     |  |  | N/A |
-| 16  | 2026-00-00 |     |  |  | N/A |
-| 17  | 2026-00-00 |     |  |  | N/A |
+| 15  | 2026-06-27 |  Authentication vulnerabilities   | Username enumeration via account lock | PRACTITIONER | N/A |
+| 16  | 2026-06-27 |  Authentication vulnerabilities   | 2FA simple bypass | APPRENTICE | N/A |
+| 17  | 2026-06-27 |  Authentication vulnerabilities   | 2FA broken logic | PRACTITIONER | N/A |
 | 18  | 2026-00-00 |     |  |  | N/A |
 | 19  | 2026-00-00 |     |  |  | N/A |
 | 20  | 2026-00-00 |     |  |  | N/A |
