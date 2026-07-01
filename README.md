@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-17-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--27-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-6%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-19-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--1-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-7%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 4 of 61
-- **Practitioner**: 2 of 174
+- **Apprentice**: 6 of 61
+- **Practitioner**: 13 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 4/14 lab
-- **SQL injection**: 7/18 lab
+- **Authentication vulnerabilities**: 7/14 lab
+- **SQL injection**: 10/18 lab
 - **Access control**: 1/13 lab
 - **Cross-site scripting**: 1/30 lab
 
@@ -52,8 +52,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 15  | 2026-06-27 |  Authentication vulnerabilities   | Username enumeration via account lock | PRACTITIONER | N/A |
 | 16  | 2026-06-27 |  Authentication vulnerabilities   | 2FA simple bypass | APPRENTICE | N/A |
 | 17  | 2026-06-27 |  Authentication vulnerabilities   | 2FA broken logic | PRACTITIONER | N/A |
-| 18  | 2026-00-00 |     |  |  | N/A |
-| 19  | 2026-00-00 |     |  |  | N/A |
+| 18  | 2026-07-01 |  SQL injection   | SQL injection attack, listing the database contents on non-Oracle databases | PRACTITIONER | N/A |
+| 19  | 2026-07-01 |  SQL injection   | SQL injection attack, listing the database contents on Oracle | PRACTITIONER | N/A |
 | 20  | 2026-00-00 |     |  |  | N/A |
 | 21  | 2026-00-00 |     |  |  | N/A |
 | 22  | 2026-00-00 |     |  |  | N/A |
