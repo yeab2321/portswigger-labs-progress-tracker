@@ -1,22 +1,23 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-33-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--12-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-11%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-36-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--18-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-12%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 12 of 61
-- **Practitioner**: 20 of 174
+- **Apprentice**: 14 of 61
+- **Practitioner**: 21 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 7/14 lab
 - **SQL injection**: 10/18 lab
-- **Access control**: 5/13 lab
+- **Access control**: 6/13 lab
 - **Cross-site scripting**: 1/30 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 4/5 lab
+- **File upload vulnerabilities**: 2/7 lab
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -70,8 +71,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 31  | 2026-07-12 |  Access control   |  Unprotected admin functionality with unpredictable URL   |  APPRENTICE   | N/A |
 | 32  | 2026-07-12 |  Access control   |  User role controlled by request parameter   |  APPRENTICE   | N/A |
 | 33  | 2026-07-12 |  Access control   |  User role can be modified in user profile   |  APPRENTICE   | N/A |
-| 34  | 2026-07-05 |  Access control   |     |     | N/A |
-| 35  | 2026-07-05 |  Access control   |     |     | N/A |
-| 36  | 2026-07-05 |  Access control   |     |     | N/A |
-| 37  | 2026-07-05 |     |     |     | N/A |
+| 34  | 2026-07-12 |  Access control   |  URL-based access control can be circumvented   |  PRACTITIONER   | N/A |
+| 35  | 2026-07-18 |  File upload vulnerabilities   |  Remote code execution via web shell upload   |  APPRENTICE   | N/A |
+| 36  | 2026-07-18 |  File upload vulnerabilities   |  Web shell upload via Content-Type restriction bypass   |  APPRENTICE   | N/A |
+| 37  | 2026-07-18 |     |     |     | N/A |
 
