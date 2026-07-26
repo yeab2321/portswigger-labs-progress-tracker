@@ -1,11 +1,11 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-38-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--18-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-13%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-39-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--18-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-13%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 14 of 61
+- **Apprentice**: 15 of 61
 - **Practitioner**: 23 of 174
 - **Expert**: 0 of 39
 
@@ -18,6 +18,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path traversal**: 6/6 lab
 - **Command injection**: 4/5 lab
 - **File upload vulnerabilities**: 4/7 lab
+- **Race conditions**: 1/6 lab
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -76,7 +77,18 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 36  | 2026-07-18 |  File upload vulnerabilities   |  Web shell upload via Content-Type restriction bypass   |  APPRENTICE   | N/A |
 | 37  | 2026-07-18 |  File upload vulnerabilities   |  Web shell upload via path traversal   |  PRACTITIONER   | N/A |
 | 38  | 2026-07-18 |  File upload vulnerabilities   |  Web shell upload via extension blacklist bypass   |  PRACTITIONER   | N/A |
-| 39  | 0000-00-00 |     |     |     | N/A |
+| 39  | 2026-07-26 |  Race conditions   |  Limit overrun race conditions   |  APPRENTICE   | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
 
 
 
