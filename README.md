@@ -87,7 +87,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |S
 | 00  | 0000-00-00 |     |     |     | N/A |
 
 
