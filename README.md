@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-40-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-13%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-41-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 15 of 61
-- **Practitioner**: 24 of 174
+- **Practitioner**: 25 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 7/14 lab
-- **SQL injection**: 11/18 lab
+- **SQL injection**: 12/18 lab
 - **Access control**: 6/13 lab
 - **Cross-site scripting**: 1/30 lab
 - **Path traversal**: 6/6 lab
@@ -79,7 +79,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 38  | 2026-07-18 |  File upload vulnerabilities   |  Web shell upload via extension blacklist bypass   |  PRACTITIONER   | N/A |
 | 39  | 2026-07-26 |  Race conditions   |  Limit overrun race conditions   |  APPRENTICE   | N/A |
 | 40  | 2026-07-28 |  SQL injection   |  SQL injection UNION attack, retrieving multiple values in a single column   |  PRACTITIONER   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 41  | 2026-07-29 |  SQL injection   |  Blind SQL injection with conditional responses   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
