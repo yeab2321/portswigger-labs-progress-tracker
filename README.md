@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-41-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--28-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-14%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-45-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--30-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-15%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 15 of 61
-- **Practitioner**: 25 of 174
+- **Practitioner**: 29 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 7/14 lab
-- **SQL injection**: 12/18 lab
+- **SQL injection**: 16/18 lab
 - **Access control**: 6/13 lab
 - **Cross-site scripting**: 1/30 lab
 - **Path traversal**: 6/6 lab
@@ -80,10 +80,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 39  | 2026-07-26 |  Race conditions   |  Limit overrun race conditions   |  APPRENTICE   | N/A |
 | 40  | 2026-07-28 |  SQL injection   |  SQL injection UNION attack, retrieving multiple values in a single column   |  PRACTITIONER   | N/A |
 | 41  | 2026-07-29 |  SQL injection   |  Blind SQL injection with conditional responses   |  PRACTITIONER   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 42  | 2026-07-30 |  SQL injection   |  Blind SQL injection with conditional errors   |  PRACTITIONER   | N/A |
+| 43  | 2026-07-30 |  SQL injection   |  Visible error-based SQL injection   |  PRACTITIONER   | N/A |
+| 44  | 2026-07-30 |  SQL injection   |  Blind SQL injection with time delays   |  PRACTITIONER   | N/A |
+| 45  | 2026-07-30 |  SQL injection   |  Blind SQL injection with time delays and information retrieval   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
