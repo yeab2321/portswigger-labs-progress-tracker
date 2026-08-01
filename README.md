@@ -79,7 +79,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 38  | 2026-07-18 |  File upload vulnerabilities   |  Web shell upload via extension blacklist bypass   |  PRACTITIONER   | N/A |######
 | 39  | 2026-07-26 |  Race conditions   |  Limit overrun race conditions   |  APPRENTICE   | N/A |
 | 40  | 2026-07-28 |  SQL injection   |  SQL injection UNION attack, retrieving multiple values in a single column   |  PRACTITIONER   | N/A |
-| 41  | 2026-07-29 |  SQL injection   |  Blind SQL injection with conditional responses   |  PRACTITIONER   | N/A |
+| 41  | 2026-07-29 |  SQL injection   |  Blind SQL injection with conditional responses   |  PRACTITIONER   | [Medium Writeup](https://medium.com/@yabsr23/portswigger-lab-blind-sql-injection-with-conditional-responses-5d37b5f042f9) |
 | 42  | 2026-07-30 |  SQL injection   |  Blind SQL injection with conditional errors   |  PRACTITIONER   | N/A |
 | 43  | 2026-07-30 |  SQL injection   |  Visible error-based SQL injection   |  PRACTITIONER   | N/A |
 | 44  | 2026-07-30 |  SQL injection   |  Blind SQL injection with time delays   |  PRACTITIONER   | N/A |
