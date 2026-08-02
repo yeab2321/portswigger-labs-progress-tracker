@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-48-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--31-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-17%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-50-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--2-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-18%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 15 of 61
-- **Practitioner**: 31 of 174
-- **Expert**: 1 of 39
+- **Apprentice**: 17 of 61
+- **Practitioner**: 32 of 174
+- **Expert**: 2 of 39
 
 ## Categories Covered
 
@@ -19,6 +19,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Command injection**: 4/5 lab
 - **File upload vulnerabilities**: 4/7 lab
 - **Race conditions**: 1/6 lab
+- **Server-side request forgery (SSRF)**: 4/7 lab
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -87,7 +88,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 46  | 2026-07-31 |  SQL injection   |  Blind SQL injection with out-of-band interaction   |  PRACTITIONER   | N/A |
 | 47  | 2026-07-31 |  SQL injection   |  Blind SQL injection with out-of-band data exfiltration   |  PRACTITIONER   | N/A |
 | 48  | 2026-07-31 |  Authentication vulnerabilities   |  Broken brute-force protection, multiple credentials per request   |  EXPERT   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |S
+| 49  | 2026-08-01 |  Server-side request forgery (SSRF)   |  Basic SSRF against the local server   |  APPRENTICE   | N/A |S
+| 50  | 2026-08-01 |  Server-side request forgery (SSRF)   |  Basic SSRF against another back-end system   |  APPRENTICE   | N/A |
+| 51  | 2026-08-01 |  Server-side request forgery (SSRF)   |  SSRF with blacklist-based input filter   |  PRACTITIONER     | N/A |
+| 52  | 2026-08-01 |  Server-side request forgery (SSRF)   |  SSRF with whitelist-based input filter   |  EXPERT   | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
 
