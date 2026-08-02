@@ -1,25 +1,26 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-55-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--2-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-20%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-60-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--2-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-21%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 17 of 61
-- **Practitioner**: 35 of 174
+- **Apprentice**: 21 of 61
+- **Practitioner**: 36 of 174
 - **Expert**: 3 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 8/14 lab
 - **SQL injection**: 18/18 lab
-- **Access control**: 6/13 lab
+- **Access control**: 11/13 lab
 - **Cross-site scripting**: 1/30 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 4/5 lab
 - **File upload vulnerabilities**: 4/7 lab
 - **Race conditions**: 1/6 lab
 - **Server-side request forgery (SSRF)**: 7/7 lab
+- **Business logic vulnerabilities**: 0/11 lab 
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -95,6 +96,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 53  | 2026-08-02 |  Server-side request forgery (SSRF)   |  SSRF with filter bypass via open redirection vulnerability   |  PRACTITIONER   | N/A |
 | 54  | 2026-08-02 |  Server-side request forgery (SSRF)   |  Blind SSRF with out-of-band detection   |  PRACTITIONER   | N/A |
 | 55  | 2026-08-02 |  Server-side request forgery (SSRF)   |  Blind SSRF with Shellshock exploitation   |  EXPERT   | N/A |
+| 56  | 2026-08-02 |  Access control   |  Method-based access control can be circumvented   |  PRACTITIONER   | N/A |
+| 57  | 2026-08-02 |  Access control   |  User ID controlled by request parameter   |  APPRENTICE   | N/A |
+| 58  | 2026-08-02 |  Access control   |  User ID controlled by request parameter, with unpredictable user IDs    |  APPRENTICE   | N/A |
+| 59  | 2026-08-02 |  Access control   |  User ID controlled by request parameter with data leakage in redirect   |  APPRENTICE   | N/A |
+| 60  | 2026-08-02 |  Access control   |  User ID controlled by request parameter with password disclosure   |  APPRENTICE   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
