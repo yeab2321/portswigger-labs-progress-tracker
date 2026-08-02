@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-50-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--2-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-18%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-55-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--2-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-20%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 17 of 61
-- **Practitioner**: 32 of 174
-- **Expert**: 2 of 39
+- **Practitioner**: 35 of 174
+- **Expert**: 3 of 39
 
 ## Categories Covered
 
@@ -19,7 +19,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Command injection**: 4/5 lab
 - **File upload vulnerabilities**: 4/7 lab
 - **Race conditions**: 1/6 lab
-- **Server-side request forgery (SSRF)**: 4/7 lab
+- **Server-side request forgery (SSRF)**: 7/7 lab
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -92,6 +92,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 50  | 2026-08-01 |  Server-side request forgery (SSRF)   |  Basic SSRF against another back-end system   |  APPRENTICE   | N/A |
 | 51  | 2026-08-01 |  Server-side request forgery (SSRF)   |  SSRF with blacklist-based input filter   |  PRACTITIONER     | N/A |
 | 52  | 2026-08-01 |  Server-side request forgery (SSRF)   |  SSRF with whitelist-based input filter   |  EXPERT   | N/A |
+| 53  | 2026-08-02 |  Server-side request forgery (SSRF)   |  SSRF with filter bypass via open redirection vulnerability   |  PRACTITIONER   | N/A |
+| 54  | 2026-08-02 |  Server-side request forgery (SSRF)   |  Blind SSRF with out-of-band detection   |  PRACTITIONER   | N/A |
+| 55  | 2026-08-02 |  Server-side request forgery (SSRF)   |  Blind SSRF with Shellshock exploitation   |  EXPERT   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
