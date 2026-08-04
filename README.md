@@ -1,17 +1,17 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-63-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--3-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-22%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-67-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--4-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-24s%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 21 of 61
-- **Practitioner**: 38 of 174
+- **Apprentice**: 22 of 61
+- **Practitioner**: 41 of 174
 - **Expert**: 4 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 9/14 lab
+- **Authentication vulnerabilities**: 13/14 lab
 - **SQL injection**: 18/18 lab
 - **Access control**: 13/13 lab
 - **Cross-site scripting**: 1/30 lab
@@ -104,7 +104,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 61  | 2026-08-03 |  Access control   |  Multi-step process with no access control on one step   |  PRACTITIONER   | N/A |
 | 62  | 2026-08-03 |  Access control   |  Referer-based access control    |  PRACTITIONER   | N/A |
 | 63  | 2026-08-03 |  Authentication vulnerabilities   |  2FA bypass using a brute-force attack   |  EXPERT   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 64  | 2026-08-04 |  Authentication vulnerabilities   |  Brute-forcing a stay-logged-in cookie   |  PRACTITIONER   | N/A |
+| 65  | 2026-08-04 |  Authentication vulnerabilities   |  Offline password cracking   |  PRACTITIONER   | N/A |
+| 66  | 2026-08-04 |  Authentication vulnerabilities   |  Password reset broken logic   |  APPRENTICE   | N/A |
+| 67  | 2026-08-04 |  Authentication vulnerabilities   |  Password reset poisoning via middleware   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
