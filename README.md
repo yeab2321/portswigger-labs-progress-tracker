@@ -1,22 +1,22 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-67-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--4-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-24s%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-69-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--5-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-25s%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 22 of 61
-- **Practitioner**: 41 of 174
+- **Practitioner**: 43 of 174
 - **Expert**: 4 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 13/14 lab
+- **Authentication vulnerabilities**: 14/14 lab
 - **SQL injection**: 18/18 lab
 - **Access control**: 13/13 lab
 - **Cross-site scripting**: 1/30 lab
 - **Path traversal**: 6/6 lab
-- **Command injection**: 4/5 lab
+- **Command injection**: 5/5 lab
 - **File upload vulnerabilities**: 4/7 lab
 - **Race conditions**: 1/6 lab
 - **Server-side request forgery (SSRF)**: 7/7 lab
@@ -108,8 +108,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 65  | 2026-08-04 |  Authentication vulnerabilities   |  Offline password cracking   |  PRACTITIONER   | N/A |
 | 66  | 2026-08-04 |  Authentication vulnerabilities   |  Password reset broken logic   |  APPRENTICE   | N/A |
 | 67  | 2026-08-04 |  Authentication vulnerabilities   |  Password reset poisoning via middleware   |  PRACTITIONER   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 68  | 2026-08-05 |  Authentication vulnerabilities   |  Password brute-force via password change   |  PRACTITIONER   | N/A |
+| 69  | 2026-08-05 |  Command injection   |  Blind OS command injection with out-of-band data exfiltration   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
 
