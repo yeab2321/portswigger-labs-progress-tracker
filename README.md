@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-69-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--5-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-25s%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-69-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--6-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-26%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 22 of 61
-- **Practitioner**: 43 of 174
+- **Apprentice**: 24 of 61
+- **Practitioner**: 44 of 174
 - **Expert**: 4 of 39
 
 ## Categories Covered
@@ -20,7 +20,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **File upload vulnerabilities**: 4/7 lab
 - **Race conditions**: 1/6 lab
 - **Server-side request forgery (SSRF)**: 7/7 lab
-- **Business logic vulnerabilities**: 0/11 lab 
+- **Business logic vulnerabilities**: 3/11 lab 
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -110,7 +110,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 67  | 2026-08-04 |  Authentication vulnerabilities   |  Password reset poisoning via middleware   |  PRACTITIONER   | N/A |
 | 68  | 2026-08-05 |  Authentication vulnerabilities   |  Password brute-force via password change   |  PRACTITIONER   | N/A |
 | 69  | 2026-08-05 |  Command injection   |  Blind OS command injection with out-of-band data exfiltration   |  PRACTITIONER   | N/A |
+| 70  | 2026-08-06 |  Business logic vulnerabilities   |  Excessive trust in client-side controls   |  APPRENTICE   | N/A |
+| 71  | 2026-08-06 |  Business logic vulnerabilities   |  High-level logic vulnerability   |  APPRENTICE   | N/A |
+| 72  | 2026-08-06 |  Business logic vulnerabilities   |  Low-level logic flaw   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
+
 
 
 
