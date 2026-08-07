@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-69-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--6-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-26%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-77-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--7-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-28%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 24 of 61
-- **Practitioner**: 44 of 174
-- **Expert**: 4 of 39
+- **Apprentice**: 25 of 61
+- **Practitioner**: 47 of 174
+- **Expert**: 5 of 39
 
 ## Categories Covered
 
@@ -21,6 +21,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Race conditions**: 1/6 lab
 - **Server-side request forgery (SSRF)**: 7/7 lab
 - **Business logic vulnerabilities**: 3/11 lab 
+- **API testing**: 5/5 lab
  
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -113,8 +114,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 70  | 2026-08-06 |  Business logic vulnerabilities   |  Excessive trust in client-side controls   |  APPRENTICE   | N/A |
 | 71  | 2026-08-06 |  Business logic vulnerabilities   |  High-level logic vulnerability   |  APPRENTICE   | N/A |
 | 72  | 2026-08-06 |  Business logic vulnerabilities   |  Low-level logic flaw   |  PRACTITIONER   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 73  | 2026-08-07 |  API testing   |  Exploiting an API endpoint using documentation   |  APPRENTICE   | N/A |
+| 74  | 2026-08-07 |  API testing   |  Finding and exploiting an unused API endpoint   |  PRACTITIONER   | N/A |
+| 75  | 2026-08-07 |  API testing   |  Exploiting a mass assignment vulnerability   |  PRACTITIONER   | N/A |
+| 76  | 2026-08-07 |  API testing   |  Exploiting server-side parameter pollution in a query string   |  PRACTITIONER   | N/A |
+| 77  | 2026-08-07 |  API testing   |  Exploiting server-side parameter pollution in a REST URL   |  EXPERT   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
