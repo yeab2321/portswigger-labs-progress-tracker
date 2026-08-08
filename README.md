@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-77-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--7-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-28%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-81-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--8-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 25 of 61
-- **Practitioner**: 47 of 174
+- **Apprentice**: 26 of 61
+- **Practitioner**: 50 of 174
 - **Expert**: 5 of 39
 
 ## Categories Covered
@@ -22,7 +22,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Server-side request forgery (SSRF)**: 7/7 lab
 - **Business logic vulnerabilities**: 3/11 lab 
 - **API testing**: 5/5 lab
- 
+- **GraphQL API vulnerabilities**: 4/5 lab
+   
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
 - **Tools Used**: Burp Suite
@@ -119,6 +120,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 75  | 2026-08-07 |  API testing   |  Exploiting a mass assignment vulnerability   |  PRACTITIONER   | N/A |
 | 76  | 2026-08-07 |  API testing   |  Exploiting server-side parameter pollution in a query string   |  PRACTITIONER   | N/A |
 | 77  | 2026-08-07 |  API testing   |  Exploiting server-side parameter pollution in a REST URL   |  EXPERT   | N/A |
+| 78  | 2026-08-08 |  GraphQL API vulnerabilities   |  Accessing private GraphQL posts   |  APPRENTICE   | N/A |
+| 79  | 2026-08-08 |  GraphQL API vulnerabilities   |  Accidental exposure of private GraphQL fields   |  PRACTITIONER   | N/A |
+| 80  | 2026-08-08 |  GraphQL API vulnerabilities   |  Finding a hidden GraphQL endpoint   |  PRACTITIONER   | N/A |
+| 81  | 2026-08-08 |  GraphQL API vulnerabilities   |  Bypassing GraphQL brute force protections   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
