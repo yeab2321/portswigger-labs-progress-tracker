@@ -1,13 +1,13 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-82-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--10-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-29%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-84-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-30%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 26 of 61
-- **Practitioner**: 51 of 174
-- **Expert**: 5 of 39
+- **Practitioner**: 52 of 174
+- **Expert**: 6 of 39
 
 ## Categories Covered
 
@@ -17,7 +17,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Cross-site scripting**: 1/30 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
-- **File upload vulnerabilities**: 5/7 lab
+- **File upload vulnerabilities**: 7/7 lab
 - **Race conditions**: 1/6 lab
 - **Server-side request forgery (SSRF)**: 7/7 lab
 - **Business logic vulnerabilities**: 3/11 lab 
@@ -125,8 +125,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 80  | 2026-08-08 |  GraphQL API vulnerabilities   |  Finding a hidden GraphQL endpoint   |  PRACTITIONER   | N/A |
 | 81  | 2026-08-08 |  GraphQL API vulnerabilities   |  Bypassing GraphQL brute force protections   |  PRACTITIONER   | N/A |
 | 82  | 2026-08-10 |  File upload vulnerabilities   |  Web shell upload via obfuscated file extension   |  PRACTITIONER   | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
-| 00  | 0000-00-00 |     |     |     | N/A |
+| 83  | 2026-08-11 |  File upload vulnerabilities   |  Remote code execution via polyglot web shell upload   |  PRACTITIONER   | N/A |
+| 84  | 2026-08-11 |  File upload vulnerabilities   |  Web shell upload via race condition   |  EXPERT   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
 
