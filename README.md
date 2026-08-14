@@ -1,20 +1,20 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-92-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-33%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-98-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--14-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-35%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 28 of 61
-- **Practitioner**: 58 of 174
-- **Expert**: 6 of 39
+- **Apprentice**: 29 of 61
+- **Practitioner**: 62 of 174
+- **Expert**: 7 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 14/14 lab
 - **SQL injection**: 18/18 lab
 - **Access control**: 13/13 lab
-- **Cross-site scripting**: 2/30 lab
+- **Cross-site scripting**: 8/30 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
 - **File upload vulnerabilities**: 7/7 lab
@@ -135,6 +135,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 90  | 2026-08-13 |  Business logic vulnerabilities   |  Flawed enforcement of business rules   |  APPRENTICE   | N/A |
 | 91  | 2026-08-13 |  Business logic vulnerabilities   |  Infinite money logic flaw   |  PRACTITIONER   | N/A |
 | 92  | 2026-08-14 |  Cross-site scripting   |  Exploiting cross-site scripting to steal cookies   |  PRACTITIONER   | N/A |
+| 93  | 2026-08-14 |  Cross-site scripting   |  Exploiting cross-site scripting to capture passwords   |  PRACTITIONER   | N/A |
+| 94  | 2026-08-14 |  Cross-site scripting   |  Exploiting XSS to bypass CSRF defenses   |  PRACTITIONER   | N/A |
+| 95  | 2026-08-14 |  Cross-site scripting   |  Stored XSS into HTML context with nothing encoded   |  APPRENTICE   | N/A |
+| 96  | 2026-08-14 |  Cross-site scripting   |  Reflected XSS into HTML context with most tags and attributes blocked   |  PRACTITIONER   | N/A |
+| 97  | 2026-08-14 |  Cross-site scripting   |  Reflected XSS into HTML context with all tags blocked except custom ones   |  PRACTITIONER   | N/A |
+| 98  | 2026-08-14 |  Cross-site scripting   |  Reflected XSS with event handlers and href attributes blocked   |  EXPERT   | N/A |
+| 00  | 0000-00-00 |     |     |     | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
 
