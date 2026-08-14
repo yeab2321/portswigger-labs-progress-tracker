@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-84-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-30%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-92-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--11-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-33%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 26 of 61
-- **Practitioner**: 52 of 174
+- **Apprentice**: 28 of 61
+- **Practitioner**: 58 of 174
 - **Expert**: 6 of 39
 
 ## Categories Covered
@@ -14,13 +14,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication vulnerabilities**: 14/14 lab
 - **SQL injection**: 18/18 lab
 - **Access control**: 13/13 lab
-- **Cross-site scripting**: 1/30 lab
+- **Cross-site scripting**: 2/30 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
 - **File upload vulnerabilities**: 7/7 lab
 - **Race conditions**: 1/6 lab
 - **Server-side request forgery (SSRF)**: 7/7 lab
-- **Business logic vulnerabilities**: 3/11 lab 
+- **Business logic vulnerabilities**: 10/11 lab 
 - **API testing**: 5/5 lab
 - **GraphQL API vulnerabilities**: 4/5 lab
  
@@ -127,6 +127,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 82  | 2026-08-10 |  File upload vulnerabilities   |  Web shell upload via obfuscated file extension   |  PRACTITIONER   | N/A |
 | 83  | 2026-08-11 |  File upload vulnerabilities   |  Remote code execution via polyglot web shell upload   |  PRACTITIONER   | N/A |
 | 84  | 2026-08-11 |  File upload vulnerabilities   |  Web shell upload via race condition   |  EXPERT   | N/A |
+| 85  | 2026-08-13 |  Business logic vulnerabilities   |  Inconsistent handling of exceptional input   |  PRACTITIONER   | N/A |
+| 86  | 2026-08-13 |  Business logic vulnerabilities   |  Inconsistent security controls   |  APPRENTICE   | N/A |
+| 87  | 2026-08-13 |  Business logic vulnerabilities   |  Weak isolation on dual-use endpoint   |  PRACTITIONER   | N/A |
+| 88  | 2026-08-13 |  Business logic vulnerabilities   |  Insufficient workflow validation   |  PRACTITIONER   | N/A |
+| 89  | 2026-08-13 |  Business logic vulnerabilities   |  Authentication bypass via flawed state machine   |  PRACTITIONER   | N/A |
+| 90  | 2026-08-13 |  Business logic vulnerabilities   |  Flawed enforcement of business rules   |  APPRENTICE   | N/A |
+| 91  | 2026-08-13 |  Business logic vulnerabilities   |  Infinite money logic flaw   |  PRACTITIONER   | N/A |
+| 92  | 2026-08-14 |  Cross-site scripting   |  Exploiting cross-site scripting to steal cookies   |  PRACTITIONER   | N/A |
 | 00  | 0000-00-00 |     |     |     | N/A |
 
 
