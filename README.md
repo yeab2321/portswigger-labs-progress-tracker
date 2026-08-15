@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-106-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-38%25-purple)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-108-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--15-yellow) ![Level](https://img.shields.io/badge/Level-NEWBIE-green) ![Vulnerability labs](https://img.shields.io/badge/Completed-39%25-purple)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
 - **Apprentice**: 32 of 61
-- **Practitioner**: 66 of 174
+- **Practitioner**: 68 of 174
 - **Expert**: 8 of 39
 
 ## Categories Covered
@@ -14,7 +14,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Authentication vulnerabilities**: 14/14 lab
 - **SQL injection**: 18/18 lab
 - **Access control**: 13/13 lab
-- **Cross-site scripting**: 16/30 lab
+- **Cross-site scripting**: 18/30 lab
 - **Path traversal**: 6/6 lab
 - **Command injection**: 5/5 lab
 - **File upload vulnerabilities**: 7/7 lab
@@ -149,8 +149,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 104  | 2026-08-15 |  Cross-site scripting   |  Reflected XSS into a JavaScript string with angle brackets HTML encoded   |  APPRENTICE   | N/A |
 | 105  | 2026-08-15 |  Cross-site scripting   |  Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped   |  PRACTITIONER   | N/A |
 | 106  | 2026-08-15 |  Cross-site scripting   |  Reflected XSS in a JavaScript URL with some characters blocked   |  EXPERT   | N/A |
-| 000  | 0000-00-00 |     |     |     | N/A |
-| 000  | 0000-00-00 |     |     |     | N/A |
+| 107  | 2026-08-15 |  Cross-site scripting   |  Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped   |  PRACTITIONER   | N/A |
+| 108  | 2026-08-15 |  Cross-site scripting   |  Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped  |  PRACTITIONER   | N/A |
+
 
 
 
