@@ -151,6 +151,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 106  | 2026-08-15 |  Cross-site scripting   |  Reflected XSS in a JavaScript URL with some characters blocked   |  EXPERT   | N/A |
 | 107  | 2026-08-15 |  Cross-site scripting   |  Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped   |  PRACTITIONER   | N/A |
 | 108  | 2026-08-15 |  Cross-site scripting   |  Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped  |  PRACTITIONER   | N/A |
+| 000  | 0000-00-00 |     |     |     | N/A |
 
 
 
